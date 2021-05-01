@@ -1,0 +1,36 @@
+{
+  "name": "jbrix",
+  "version": "1.0.0",
+  "description": "Plugin JQuery do componente Brix (www.brix.dev.br)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcioamr/jbrix.git"
+  },
+  "keywords": [
+    "pix",
+    "cobrança",
+    "cobranca",
+    "brix",
+    "pagamento",
+    "e-commerce",
+    "lib",
+    "plugin",
+    "jquery",
+    "estatico",
+    "dinamico",
+    "qrcode"
+  ],
+  "author": "Brix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcioamr/jbrix/issues"
+  },
+  "homepage": "https://github.com/marcioamr/jbrix#readme",
+  "dependencies": {
+    "kjua": "^0.9.0"
+  }
+}
