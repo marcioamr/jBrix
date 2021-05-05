@@ -58,6 +58,9 @@ chave | Chave Pix criada junto ao seu PSP (instituição financeira onde possui 
 valor | Valor do QR Code a ser gerado no formato 999.99.
 decricao | Pequena descrição da cobrança a ser recebida.
  
+#### Veja o Brix em ação
+
+Acesse https://marcioamr.github.io/jbrix/demo/ veja alguns exemplos reais de emissão do Pix.
 
 ## O que vem por aí
 
