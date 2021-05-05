@@ -54,7 +54,7 @@ $(document).ready(function(){
 Parâmetro | Descrição
 ------------ | -------------
 credencial | Chave de acesso à plataforma Brix.
-chave | Chave Pix criada junto ao seu PSP (instituição financeira onde possui conta.
+chave | Chave Pix criada junto ao seu PSP (instituição financeira onde possui conta).
 valor | Valor do QR Code a ser gerado no formato 999.99.
 decricao | Pequena descrição da cobrança a ser recebida.
  
