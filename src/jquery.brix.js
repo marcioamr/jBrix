@@ -1,6 +1,6 @@
 (function( $ ) {
   var defaults_ = {
-    'api': 'http://api.brix.dev.br',
+    'api': 'https://api.brix.dev.br',
     'width': 200,
     'heigth': 200
   }
