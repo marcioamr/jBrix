@@ -19,7 +19,7 @@ Com o jBrix é possível:
 O primeiro passo é baixar a biblioteca e colocar junto com o seu código e referenciá-lo em seu código.
 
 ```javascript
-<script src="js/jquery.brix.js">
+<script src="js/jquery.brix.js"></script>
 ```
 
 ## Gerando seu primeiro QR Code dinâmico
