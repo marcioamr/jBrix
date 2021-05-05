@@ -9,7 +9,7 @@ Acesse www.brix.dev.br e crie sua credencial para utilizar este plugin jQuery e 
 Com o jBrix é possível:
 
 * Criar QR Codes estáticos (que podem ser impressos e colocados em cardápios ou mostruários).
-* Criar QR Codes dinâmicos que podem ser apresentados ao seu cliente em seus sistema de e-commerce ou frente de loja.
+* Criar QR Codes dinâmicos que podem ser apresentados ao seu cliente em seu sistema de e-commerce ou frente de loja.
 * Ser notificado (webhook) a cada Pix pago. O seu sistema fica sabendo instantes depois a cada pagamento. Crie experiências incríveis para seus clientes.
 * Receber o dinheiro do pagamento imediatamente. O dinheiro não passa pela nossa conta. Vai diretamente para a sua conta, na instituição de sua preferência.
 * Receber o dinheiro em sua conta no Banco do Brasil.
