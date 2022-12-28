@@ -1,4 +1,4 @@
-# jBrix
+# jBrix.
 
 Integre a sua plataforma tecnológica, ERP ou e-commerce com QR Codes estáticos e dinâmicos do Pix e se beneficie da maneira mais moderna de pagamentos no Brasil.
 
